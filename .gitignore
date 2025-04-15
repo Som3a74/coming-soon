@@ -26,5 +26,3 @@ dist-ssr
 
 
 # .gitignore
-config.js
-config.*.js
